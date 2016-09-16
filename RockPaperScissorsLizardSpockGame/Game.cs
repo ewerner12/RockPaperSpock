@@ -136,7 +136,7 @@ namespace RockPaperScissorsLizardSpockGame
 
         public void RestartGame(int replayInput)
         {
-            switch(replayInput)
+            switch (replayInput)
             {
                 case 1:
                     SetGamePlayType();
@@ -149,19 +149,22 @@ namespace RockPaperScissorsLizardSpockGame
                     break;
             }
 
-            ////while ((playAgainNumb != 1) && (playAgainNumb != 2))
-            ////{
-            ////    AskToPlayAgain(player1, player2);
-            ////}
+            //// while ((replayInput != 1) && (replayInput != 2))
+            //// {
+            ////     AskToPlayAgain();
+            //// }
 
-            ////if (playAgainNumb == 1)
-            ////{
-            ////    StartGamePlay();
-            ////}
-            ////else
-            ////{
-            ////    EndGame(player1, player2);
-            ////}
+            //// if (replayInput == 1)
+            //// {
+            ////     SetGamePlayType();
+            //// }
+            //// else
+            //// {
+            ////     //// if the first response to AskToPlayAgain() is an int other than '1' or '2' (like '234'),
+            ////     //// then the game runs through the EndGame() and Exit() methods but then loops back through 
+            ////     //// and continues to loop AskToPlayAgain() method. can't figure out why...
+            ////     EndGame();
+            //// }
         }
 
         public void EndGame()
