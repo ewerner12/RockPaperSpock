@@ -1,0 +1,6 @@
+c:\users\eric werner\documents\visual studio 2015\Projects\RockPaperScissorsLizardSpockGame\RockPaperScissorsLizardSpockGame\bin\Debug\RockPaperScissorsLizardSpockGame.exe.config
+c:\users\eric werner\documents\visual studio 2015\Projects\RockPaperScissorsLizardSpockGame\RockPaperScissorsLizardSpockGame\bin\Debug\RockPaperScissorsLizardSpockGame.exe
+c:\users\eric werner\documents\visual studio 2015\Projects\RockPaperScissorsLizardSpockGame\RockPaperScissorsLizardSpockGame\bin\Debug\RockPaperScissorsLizardSpockGame.pdb
+c:\users\eric werner\documents\visual studio 2015\Projects\RockPaperScissorsLizardSpockGame\RockPaperScissorsLizardSpockGame\obj\Debug\RockPaperScissorsLizardSpockGame.csprojResolveAssemblyReference.cache
+c:\users\eric werner\documents\visual studio 2015\Projects\RockPaperScissorsLizardSpockGame\RockPaperScissorsLizardSpockGame\obj\Debug\RockPaperScissorsLizardSpockGame.exe
+c:\users\eric werner\documents\visual studio 2015\Projects\RockPaperScissorsLizardSpockGame\RockPaperScissorsLizardSpockGame\obj\Debug\RockPaperScissorsLizardSpockGame.pdb
