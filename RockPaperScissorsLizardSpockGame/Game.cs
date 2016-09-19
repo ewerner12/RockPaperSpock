@@ -16,7 +16,7 @@ namespace RockPaperScissorsLizardSpockGame
         //// easier to get a number out of an enum
         //// used an array cause it's easier to print from (for the menu)
         private string[] GameMoves = { "ROCK", "PAPER", "SCISSORS", "LIZARD", "SPOCK" };
-        //// consider not instantiating first human to allow for two CPUs to play against each other???
+        //// consider not instantiating first human to allow for two CPUs to play against each other
         private Player firstPlayer = new Human();
         private Player secondPlayer;
         private string gameType;
@@ -162,7 +162,8 @@ namespace RockPaperScissorsLizardSpockGame
             //// {
             ////     //// if the first response to AskToPlayAgain() is an int other than '1' or '2' (like '234'),
             ////     //// then the game runs through the EndGame() and Exit() methods but then loops back through 
-            ////     //// and continues to loop AskToPlayAgain() method. can't figure out why...
+            ////     //// and continues to loop AskToPlayAgain() method. can't figure out why... used switch
+            ////     //// case instead.
             ////     EndGame();
             //// }
         }
